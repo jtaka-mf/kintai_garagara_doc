@@ -6,8 +6,7 @@
 Slackの表⽰に関する設定を⾏います。  
 Slackで投稿されるメッセージは以下のようなものになります。  
   
-<img src="img/setting1.png" width="200">
-<img src="img/setting2.png" width="200">
+|<img src="img/setting1.png" width="200">|<img src="img/setting2.png" width="200">|
   
 ②はSlack(ブラウザ版)で⾃分のプロフィールを表⽰し、アイコン画⾯で右クリックを⾏い、画像のURLを選択し、取得します。  
     
