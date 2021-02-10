@@ -6,6 +6,10 @@
 Slackの表⽰に関する設定を⾏います。  
 Slackで投稿されるメッセージは以下のようなものになります。  
   
+<img src="img/slack.png" width="350">  
+  
+### 設定画面の入力について
+  
 |<img src="img/setting1.png" width="250">|<img src="img/setting2.png" width="250">|
     
   
