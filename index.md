@@ -1,12 +1,13 @@
 ## セットアップ
 ⻘いマネーフォワードボタン(Chrome拡張)をタップすると以下のような画⾯が開きます。「設定画⾯へ」をタップします。  
-![top](img/top.png)
+<img src="img/top.png" width="200">
+
   
 Slackの表⽰に関する設定を⾏います。  
 Slackで投稿されるメッセージは以下のようなものになります。  
   
-![setting1](img/setting1.png)
-![setting2](img/setting2.png)
+<img src="img/setting1.png" width="200">
+<img src="img/setting2.png" width="200">
   
 ②はSlack(ブラウザ版)で⾃分のプロフィールを表⽰し、アイコン画⾯で右クリックを⾏い、画像のURLを選択し、取得します。  
     
